@@ -1,0 +1,52 @@
+h1 {
+    color: #FF0000  ;
+    margin-left: 12em; 
+    font-size: 30pt;
+}
+
+h2 {
+    color: #0000FF   ;
+    margin-left: 2em;
+    font-size: 25pt;
+}
+
+img {
+        margin-left: 1em;
+}
+
+h3 {
+    color: #000033;
+}
+
+pre {
+    font-family: 'Roboto Slab', serif;
+    font-size: 13pt;
+}
+
+.c1 {
+    color: #0066FF;
+    margin-left: 1em;
+    font-size: 13pt;
+}
+
+.fa {
+    color: blue;
+
+}
+
+.c2 {
+    color: #333333;
+    font-size: 11pt; 
+    font-weight: 700;
+}
+
+tr {
+    font-size: 10pt;
+}
+
+h4 {
+color: darkslategray;
+}
+li, p {
+font-family: Cambria, Cochin, Georgia, Times, Times New Roman, serif;
+}
